@@ -5,6 +5,6 @@ def automate():
   print(x)
 for i in range(1,60):
     time.sleep(1)
-    print("hello")
+    print("hello2")
 automate()
     
